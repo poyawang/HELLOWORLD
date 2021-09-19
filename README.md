@@ -4,7 +4,7 @@
 
 This shows how to say hello in python. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/nYYs5Y9ROoA)
 
 ## Development Environment
 
